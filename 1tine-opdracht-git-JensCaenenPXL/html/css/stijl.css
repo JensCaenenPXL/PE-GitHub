@@ -63,3 +63,25 @@ a:hover {
     background-color: white;
 }
 
+img.cover_game {
+    height: 128px;
+    width: auto;
+}
+
+tr {
+    border-collapse: collapse;
+    border: transparent;
+}
+
+th {
+    background-color: rgb(47, 79, 78);
+}
+
+tr td.subtitel {
+    background-color: rgb(115, 126, 148);
+}
+
+table {
+    margin: 10px 30% 10px 30%;
+    width: 40%;
+}
