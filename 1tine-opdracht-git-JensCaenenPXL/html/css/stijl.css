@@ -53,9 +53,13 @@ footer {
     padding: 10px;
     background-color: rgb(103, 117, 128);
     border-top: solid 5px orange;
-    position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+footer.fixed {
+    position: fixed;
+
 }
 
 a:hover {
